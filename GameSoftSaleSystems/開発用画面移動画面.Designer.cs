@@ -71,7 +71,7 @@ namespace GameSoftSaleSystems
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(164, 96);
             this.button4.TabIndex = 3;
-            this.button4.Text = "button4";
+            this.button4.Text = "ぼたんよん";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // 開発用画面移動画面
