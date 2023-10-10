@@ -19,8 +19,32 @@ namespace GameSoftSaleSystems
 
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
-            //checkBox cb = sender as CheckBox;
-            //cb.text=cb.checked?"✓":"";
+            CheckBox cb = sender as CheckBox;
+            cb.Text = cb.Checked ? "✓" : "";
+        }
+
+        private void checkBox6_CheckedChanged_1(object sender, EventArgs e)
+        {
+            CheckBox cb = sender as CheckBox;
+            cb.Text = cb.Checked ? "✓" : "";
+        }
+
+        private void checkBox7_CheckedChanged_1(object sender, EventArgs e)
+        {
+            CheckBox cb = sender as CheckBox;
+            cb.Text = cb.Checked ? "✓" : "";
+        }
+
+        private void checkBox8_CheckedChanged(object sender, EventArgs e)
+        {
+            CheckBox cb = sender as CheckBox;
+            cb.Text = cb.Checked ? "✓" : "";
+        }
+
+        private void checkBox9_CheckedChanged(object sender, EventArgs e)
+        {
+            CheckBox cb = sender as CheckBox;
+            cb.Text = cb.Checked ? "✓" : "";
         }
     }
 }

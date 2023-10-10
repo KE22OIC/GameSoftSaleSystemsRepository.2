@@ -42,7 +42,6 @@ namespace GameSoftSaleSystems
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button4 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
@@ -168,18 +167,9 @@ namespace GameSoftSaleSystems
             this.button7.Text = "サブスクリプション";
             this.button7.UseVisualStyleBackColor = true;
             // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(470, 569);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(194, 80);
-            this.button6.TabIndex = 32;
-            this.button6.Text = "プライバシー";
-            this.button6.UseVisualStyleBackColor = true;
-            // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(470, 481);
+            this.button5.Location = new System.Drawing.Point(470, 547);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(194, 80);
             this.button5.TabIndex = 31;
@@ -188,7 +178,7 @@ namespace GameSoftSaleSystems
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(470, 393);
+            this.button4.Location = new System.Drawing.Point(470, 437);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(194, 80);
             this.button4.TabIndex = 30;
@@ -197,7 +187,7 @@ namespace GameSoftSaleSystems
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(470, 305);
+            this.button2.Location = new System.Drawing.Point(470, 327);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(194, 80);
             this.button2.TabIndex = 29;
@@ -259,7 +249,6 @@ namespace GameSoftSaleSystems
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button2);
@@ -289,7 +278,6 @@ namespace GameSoftSaleSystems
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Button button2;
