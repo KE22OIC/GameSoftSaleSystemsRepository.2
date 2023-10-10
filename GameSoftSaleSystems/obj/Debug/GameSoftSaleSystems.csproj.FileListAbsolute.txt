@@ -1,0 +1,24 @@
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.exe.config
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.exe
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.pdb
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.AssemblyReference.cache
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.Properties.Resources.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.GenerateResource.cache
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.CoreCompileInputs.cache
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.exe
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.pdb
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.Form2.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormMainmenu.resources
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.exe.config
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.exe
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\bin\Debug\GameSoftSaleSystems.pdb
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.AssemblyReference.cache
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormMainmenu.resources
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormSetting.resources
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormSubscription.resources
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.Properties.Resources.resources
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.開発用画面移動画面.resources
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.GenerateResource.cache
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.csproj.CoreCompileInputs.cache
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.exe
+C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスクトップ\シス会2\github\GameSoftSaleSystemsRepository\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.pdb
