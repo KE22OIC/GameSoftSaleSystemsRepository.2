@@ -65,6 +65,24 @@
     <Compile Include="FormSubscription.Designer.cs">
       <DependentUpon>FormSubscription.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormTitleDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTitleDetail.Designer.cs">
+      <DependentUpon>FormTitleDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTitleDetailRegist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTitleDetailRegist.Designer.cs">
+      <DependentUpon>FormTitleDetailRegist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormTitleDetailUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTitleDetailUpdate.Designer.cs">
+      <DependentUpon>FormTitleDetailUpdate.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="開発用画面移動画面.cs">
@@ -81,6 +99,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormSubscription.resx">
       <DependentUpon>FormSubscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTitleDetail.resx">
+      <DependentUpon>FormTitleDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTitleDetailRegist.resx">
+      <DependentUpon>FormTitleDetailRegist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTitleDetailUpdate.resx">
+      <DependentUpon>FormTitleDetailUpdate.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
