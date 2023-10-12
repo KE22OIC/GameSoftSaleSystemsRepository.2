@@ -16,7 +16,7 @@ namespace GameSoftSaleSystems
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new 開発用画面移動画面());
+            Application.Run(new FormSubscription());
         }
     }
 }

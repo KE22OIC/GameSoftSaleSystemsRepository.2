@@ -33,23 +33,22 @@ namespace GameSoftSaleSystems
             this.label1 = new System.Windows.Forms.Label();
             this.button3 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
-            this.checkBox5 = new System.Windows.Forms.CheckBox();
+            this.checkBox6 = new System.Windows.Forms.CheckBox();
+            this.checkBox7 = new System.Windows.Forms.CheckBox();
+            this.checkBox8 = new System.Windows.Forms.CheckBox();
+            this.checkBox9 = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // label1
@@ -80,51 +79,6 @@ namespace GameSoftSaleSystems
             this.textBox1.TabIndex = 37;
             this.textBox1.Text = "検索バー";
             // 
-            // button7
-            // 
-            this.button7.Location = new System.Drawing.Point(470, 657);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(194, 80);
-            this.button7.TabIndex = 45;
-            this.button7.Text = "サブスクリプション";
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // button6
-            // 
-            this.button6.Location = new System.Drawing.Point(470, 569);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(194, 80);
-            this.button6.TabIndex = 44;
-            this.button6.Text = "プライバシー";
-            this.button6.UseVisualStyleBackColor = true;
-            // 
-            // button5
-            // 
-            this.button5.Location = new System.Drawing.Point(470, 481);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(194, 80);
-            this.button5.TabIndex = 43;
-            this.button5.Text = "ログイン＆セキュリティ";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(470, 393);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(194, 80);
-            this.button4.TabIndex = 42;
-            this.button4.Text = "オーダー";
-            this.button4.UseVisualStyleBackColor = true;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(470, 305);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(194, 80);
-            this.button2.TabIndex = 41;
-            this.button2.Text = "ウォレット";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(470, 217);
@@ -133,6 +87,42 @@ namespace GameSoftSaleSystems
             this.button1.TabIndex = 40;
             this.button1.Text = "アカウント";
             this.button1.UseVisualStyleBackColor = true;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(470, 327);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(194, 80);
+            this.button2.TabIndex = 41;
+            this.button2.Text = "ウォレット";
+            this.button2.UseVisualStyleBackColor = true;
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(470, 437);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(194, 80);
+            this.button4.TabIndex = 42;
+            this.button4.Text = "オーダー";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(470, 547);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(194, 80);
+            this.button5.TabIndex = 43;
+            this.button5.Text = "ログイン＆セキュリティ";
+            this.button5.UseVisualStyleBackColor = true;
+            // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(470, 657);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(194, 80);
+            this.button7.TabIndex = 45;
+            this.button7.Text = "サブスクリプション";
+            this.button7.UseVisualStyleBackColor = true;
             // 
             // label2
             // 
@@ -145,60 +135,60 @@ namespace GameSoftSaleSystems
             this.label2.TabIndex = 46;
             this.label2.Text = "ウィッシュリストとプロモーション";
             // 
-            // label7
+            // label3
             // 
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("MS UI Gothic", 15F);
-            this.label7.ForeColor = System.Drawing.Color.Red;
-            this.label7.Location = new System.Drawing.Point(728, 674);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(257, 20);
-            this.label7.TabIndex = 51;
-            this.label7.Text = "マーケティングによるカスタム広告";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("MS UI Gothic", 15F);
-            this.label6.ForeColor = System.Drawing.Color.Red;
-            this.label6.Location = new System.Drawing.Point(728, 314);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(153, 20);
-            this.label6.TabIndex = 50;
-            this.label6.Text = "セール情報の配信";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("MS UI Gothic", 15F);
-            this.label5.ForeColor = System.Drawing.Color.Red;
-            this.label5.Location = new System.Drawing.Point(728, 404);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(192, 20);
-            this.label5.TabIndex = 49;
-            this.label5.Text = "ウィッシュリストのアラート";
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("MS UI Gothic", 15F, System.Drawing.FontStyle.Bold);
+            this.label3.ForeColor = System.Drawing.Color.Red;
+            this.label3.Location = new System.Drawing.Point(728, 584);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(211, 20);
+            this.label3.TabIndex = 47;
+            this.label3.Text = "新規リリース情報の配信";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("MS UI Gothic", 15F);
+            this.label4.Font = new System.Drawing.Font("MS UI Gothic", 15F, System.Drawing.FontStyle.Bold);
             this.label4.ForeColor = System.Drawing.Color.Red;
             this.label4.Location = new System.Drawing.Point(728, 494);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(206, 20);
+            this.label4.Size = new System.Drawing.Size(218, 20);
             this.label4.TabIndex = 48;
             this.label4.Text = "プロモーション情報の配信";
             // 
-            // label3
+            // label5
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("MS UI Gothic", 15F);
-            this.label3.ForeColor = System.Drawing.Color.Red;
-            this.label3.Location = new System.Drawing.Point(728, 584);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(200, 20);
-            this.label3.TabIndex = 47;
-            this.label3.Text = "新規リリース情報の配信";
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("MS UI Gothic", 15F, System.Drawing.FontStyle.Bold);
+            this.label5.ForeColor = System.Drawing.Color.Red;
+            this.label5.Location = new System.Drawing.Point(728, 404);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(205, 20);
+            this.label5.TabIndex = 49;
+            this.label5.Text = "ウィッシュリストのアラート";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("MS UI Gothic", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.label6.ForeColor = System.Drawing.Color.Red;
+            this.label6.Location = new System.Drawing.Point(728, 314);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(161, 20);
+            this.label6.TabIndex = 50;
+            this.label6.Text = "セール情報の配信";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("MS UI Gothic", 15F, System.Drawing.FontStyle.Bold);
+            this.label7.ForeColor = System.Drawing.Color.Red;
+            this.label7.Location = new System.Drawing.Point(728, 674);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(273, 20);
+            this.label7.TabIndex = 51;
+            this.label7.Text = "マーケティングによるカスタム広告";
             // 
             // checkBox1
             // 
@@ -208,7 +198,7 @@ namespace GameSoftSaleSystems
             this.checkBox1.CheckState = System.Windows.Forms.CheckState.Checked;
             this.checkBox1.Font = new System.Drawing.Font("MS UI Gothic", 25F);
             this.checkBox1.ForeColor = System.Drawing.Color.Lime;
-            this.checkBox1.Location = new System.Drawing.Point(1029, 277);
+            this.checkBox1.Location = new System.Drawing.Point(1038, 312);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(50, 50);
             this.checkBox1.TabIndex = 52;
@@ -217,41 +207,71 @@ namespace GameSoftSaleSystems
             this.checkBox1.UseVisualStyleBackColor = false;
             this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
-            // checkBox2
+            // checkBox6
             // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Location = new System.Drawing.Point(1038, 426);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(15, 14);
-            this.checkBox2.TabIndex = 53;
-            this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBox6.Appearance = System.Windows.Forms.Appearance.Button;
+            this.checkBox6.BackColor = System.Drawing.Color.White;
+            this.checkBox6.Font = new System.Drawing.Font("MS UI Gothic", 25F);
+            this.checkBox6.ForeColor = System.Drawing.Color.Lime;
+            this.checkBox6.Location = new System.Drawing.Point(1038, 400);
+            this.checkBox6.Name = "checkBox6";
+            this.checkBox6.Size = new System.Drawing.Size(50, 50);
+            this.checkBox6.TabIndex = 57;
+            this.checkBox6.Text = "✓";
+            this.checkBox6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.checkBox6.UseVisualStyleBackColor = false;
+            this.checkBox6.CheckedChanged += new System.EventHandler(this.checkBox6_CheckedChanged_1);
             // 
-            // checkBox3
+            // checkBox7
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Location = new System.Drawing.Point(1038, 514);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(15, 14);
-            this.checkBox3.TabIndex = 54;
-            this.checkBox3.UseVisualStyleBackColor = true;
+            this.checkBox7.Appearance = System.Windows.Forms.Appearance.Button;
+            this.checkBox7.BackColor = System.Drawing.Color.White;
+            this.checkBox7.Checked = true;
+            this.checkBox7.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.checkBox7.Font = new System.Drawing.Font("MS UI Gothic", 25F);
+            this.checkBox7.ForeColor = System.Drawing.Color.Lime;
+            this.checkBox7.Location = new System.Drawing.Point(1038, 488);
+            this.checkBox7.Name = "checkBox7";
+            this.checkBox7.Size = new System.Drawing.Size(50, 50);
+            this.checkBox7.TabIndex = 58;
+            this.checkBox7.Text = "✓";
+            this.checkBox7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.checkBox7.UseVisualStyleBackColor = false;
+            this.checkBox7.CheckedChanged += new System.EventHandler(this.checkBox7_CheckedChanged_1);
             // 
-            // checkBox4
+            // checkBox8
             // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.Location = new System.Drawing.Point(1038, 602);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(15, 14);
-            this.checkBox4.TabIndex = 55;
-            this.checkBox4.UseVisualStyleBackColor = true;
+            this.checkBox8.Appearance = System.Windows.Forms.Appearance.Button;
+            this.checkBox8.BackColor = System.Drawing.Color.White;
+            this.checkBox8.Checked = true;
+            this.checkBox8.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.checkBox8.Font = new System.Drawing.Font("MS UI Gothic", 25F);
+            this.checkBox8.ForeColor = System.Drawing.Color.Lime;
+            this.checkBox8.Location = new System.Drawing.Point(1038, 576);
+            this.checkBox8.Name = "checkBox8";
+            this.checkBox8.Size = new System.Drawing.Size(50, 50);
+            this.checkBox8.TabIndex = 59;
+            this.checkBox8.Text = "✓";
+            this.checkBox8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.checkBox8.UseVisualStyleBackColor = false;
+            this.checkBox8.CheckedChanged += new System.EventHandler(this.checkBox8_CheckedChanged);
             // 
-            // checkBox5
+            // checkBox9
             // 
-            this.checkBox5.AutoSize = true;
-            this.checkBox5.Location = new System.Drawing.Point(1038, 690);
-            this.checkBox5.Name = "checkBox5";
-            this.checkBox5.Size = new System.Drawing.Size(15, 14);
-            this.checkBox5.TabIndex = 56;
-            this.checkBox5.UseVisualStyleBackColor = true;
+            this.checkBox9.Appearance = System.Windows.Forms.Appearance.Button;
+            this.checkBox9.BackColor = System.Drawing.Color.White;
+            this.checkBox9.Checked = true;
+            this.checkBox9.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.checkBox9.Font = new System.Drawing.Font("MS UI Gothic", 25F);
+            this.checkBox9.ForeColor = System.Drawing.Color.Lime;
+            this.checkBox9.Location = new System.Drawing.Point(1038, 664);
+            this.checkBox9.Name = "checkBox9";
+            this.checkBox9.Size = new System.Drawing.Size(50, 50);
+            this.checkBox9.TabIndex = 60;
+            this.checkBox9.Text = "✓";
+            this.checkBox9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.checkBox9.UseVisualStyleBackColor = false;
+            this.checkBox9.CheckedChanged += new System.EventHandler(this.checkBox9_CheckedChanged);
             // 
             // FormSubscription
             // 
@@ -259,10 +279,10 @@ namespace GameSoftSaleSystems
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.WindowFrame;
             this.ClientSize = new System.Drawing.Size(1904, 1041);
-            this.Controls.Add(this.checkBox5);
-            this.Controls.Add(this.checkBox4);
-            this.Controls.Add(this.checkBox3);
-            this.Controls.Add(this.checkBox2);
+            this.Controls.Add(this.checkBox9);
+            this.Controls.Add(this.checkBox8);
+            this.Controls.Add(this.checkBox7);
+            this.Controls.Add(this.checkBox6);
             this.Controls.Add(this.checkBox1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -271,7 +291,6 @@ namespace GameSoftSaleSystems
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button2);
@@ -291,22 +310,21 @@ namespace GameSoftSaleSystems
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button7;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
         private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.CheckBox checkBox3;
-        private System.Windows.Forms.CheckBox checkBox4;
-        private System.Windows.Forms.CheckBox checkBox5;
+        private System.Windows.Forms.CheckBox checkBox6;
+        private System.Windows.Forms.CheckBox checkBox7;
+        private System.Windows.Forms.CheckBox checkBox8;
+        private System.Windows.Forms.CheckBox checkBox9;
     }
 }
