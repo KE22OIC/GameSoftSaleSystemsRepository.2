@@ -300,6 +300,7 @@ namespace GameSoftSaleSystems
             this.Controls.Add(this.textBox1);
             this.Name = "FormSubscription";
             this.Text = "FormSubscription";
+            this.Load += new System.EventHandler(this.FormSubscription_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

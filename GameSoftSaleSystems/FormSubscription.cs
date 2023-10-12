@@ -46,5 +46,10 @@ namespace GameSoftSaleSystems
             CheckBox cb = sender as CheckBox;
             cb.Text = cb.Checked ? "✓" : "";
         }
+
+        private void FormSubscription_Load(object sender, EventArgs e)
+        {
+            textBox1.PasswordChar = '*';
+        }
     }
 }

@@ -24,3 +24,9 @@ C:\Users\sinn0\OneDrive - 大阪情報コンピュータ専門学校\デスク�
 D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormSetting.resources
 D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormSubscription.resources
 D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.開発用画面移動画面.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormInput.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormTitleDetail.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormTitleDetailRegist.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormTitleDetailUpdate.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormViewAccounts.resources
+D:\GSSS\GameSoftSaleSystems\GameSoftSaleSystems\obj\Debug\GameSoftSaleSystems.FormLoginAndSecurity.resources
